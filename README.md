@@ -11,7 +11,7 @@
 ## 실행 방법 
 1. URL과 쿠키 값을 변경 후 실행한다.<br>
  ![image](https://user-images.githubusercontent.com/67920695/185036676-568ae07f-05b4-4240-b09a-7d65a1b9b28c.png)
-2.
+<img width="931" alt="image" src="https://user-images.githubusercontent.com/67920695/185181194-980b98fd-a15d-4e32-87b0-c82cecd6e235.png">
 
 ## ⚙업데이트 예정
 
