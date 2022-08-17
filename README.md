@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  
 ## 실행 방법 
-URL과 쿠키 값을 변경한다.
+URL과 쿠키 값을 변경 후 실행한다.<br>
  ![image](https://user-images.githubusercontent.com/67920695/185036676-568ae07f-05b4-4240-b09a-7d65a1b9b28c.png)
 
  
